@@ -1,0 +1,5 @@
+to slideshow:
+pandoc -t beamer input.md -o output.pdf -H beamer.tex
+
+to pdf:
+pancdoc input.md --pdf-engine xelatex -o output.pdf
