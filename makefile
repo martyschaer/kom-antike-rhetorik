@@ -4,8 +4,12 @@ slides:
 handout:
 	pandoc handout.md -o handout.pdf --template templates/handout.tex
 	mupdf handout.pdf
-all: slides handout
+notes:
+	pandoc notes.md -o notes.pdf --template templates/handout.tex
+	mupdf notes.pdf
+all: slides handout notes
 
 clean:
-	rm slides.pdf
-	rm handout.pdf
+	rm -f slides.pdf
+	rm -f handout.pdf
+	rm -f notes.pdf
