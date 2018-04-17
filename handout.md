@@ -15,15 +15,15 @@ geometry:
 \newpage
 
 # Einleitung
-Heute wird unter dem begriff "Rhetorik" hauptsächlich die Sprech- und Vortragskunst verstanden, jedoch hatte der Begriff in der Antike ein sehr andere Bedeutung.
+Heute wird unter dem Begriff "Rhetorik" hauptsächlich die Sprech- und Vortragskunst verstanden, jedoch hatte der Begriff in der Antike ein sehr andere Bedeutung.
 
-Zu Beginn der Geschichte der Rhetorik beschäftigte sie sich vor allem mit dem Ermitteln, Verarbeiten und Weitergeben von Wissen. Zudem wurde der Rhetorikunterricht oft als wichtige Vorbereitung für die Arbeit als Politiker, Anwalt oder Lehrer angesehen.
+Zu Beginn der Geschichte der Rhetorik beschäftigte sich diese vor allem mit dem Ermitteln, Verarbeiten und Weitergeben von Wissen. Zudem wurde der Rhetorikunterricht oft als wichtige Vorbereitung für die Arbeit als Politiker, Anwalt oder Lehrer angesehen.
 
-Im ersten Teil befasse ich mich mit der Geschichte der Antiken Rhetorik, basierend auf "Die Antike Rhetorik - Eine Einführung" von Manfred Fuhrmann, gegliedert in Griechische und Römische Teile. Im zweiten Teil dann mit der Rhetorik an sich.
+Im ersten Teil befasse ich mich mit der Geschichte der Antiken Rhetorik, basierend auf "Die Antike Rhetorik - Eine Einführung" von Manfred Fuhrmann, gegliedert in griechische und römische Teile. Im zweiten Teil dann mit der Rhetorik an sich.
 
-Im gesammten Dokument sind Links als Einstiegspunkte zur Eigenlektüre verteilt.
+Im gesamten Dokument sind Links als Einstiegspunkte zur Eigenlektüre verteilt.
 
-## Zeitline
+## Chronik
 +------------+----------------------------------------------------------------------------------+
 |**ca. Jahr**| **Ereignis**                                                                     |
 +============+==================================================================================+
@@ -37,7 +37,7 @@ Im gesammten Dokument sind Links als Einstiegspunkte zur Eigenlektüre verteilt.
 +------------+----------------------------------------------------------------------------------+
 | 436 v.Chr. | Isokrates wird geboren und wird einer der bedeutendsten Rhetoriker               |
 +------------+----------------------------------------------------------------------------------+
-| 430 v.Chr. | Die Sophisten Gründen Schulen, z.B. in Athen                                     |
+| 430 v.Chr. | Die Sophisten gründen Schulen, z.B. in Athen                                     |
 +------------+----------------------------------------------------------------------------------+
 | 430 v.Chr. | Hundertjähriger Streit zwischen Philosophie und Rhetorik beginnt                 |
 +------------+----------------------------------------------------------------------------------+
@@ -45,15 +45,15 @@ Im gesammten Dokument sind Links als Einstiegspunkte zur Eigenlektüre verteilt.
 +------------+----------------------------------------------------------------------------------+
 | 427 v.Chr. | Platon wird geboren und führt das Werk seines Lehrers Sokrates fort              |
 +------------+----------------------------------------------------------------------------------+
-| 384 v.Chr. | Aristotels wird geboren und beginnt die Rhetorik und Philosophie zu vereinigen   |
+| 384 v.Chr. | Aristoteles wird geboren und beginnt, die Rhetorik und Philosophie zu vereinigen |
 +------------+----------------------------------------------------------------------------------+
 | 338 v.Chr. | Der Sieg des Philipp von Makedonien über die Athener beendet die Rhetorik abrupt |
 +------------+----------------------------------------------------------------------------------+
-|*dazwischen*| Grosse Überlieferungslücke. Sehr wenig ist noch erhalten aus dieser Zeit         |
+|*dazwischen*| Grosse Überlieferungslücke. Wenig ist noch erhalten aus dieser Zeit              |
 +------------+----------------------------------------------------------------------------------+
 | 200 v.Chr. | Einzug der Rhetorik in das römische Reich, da Rom immer mehr zur Weltmacht wird  |
 +------------+----------------------------------------------------------------------------------+
-| 106 v.Chr. | Cicero wird geboren und hilt der römischen Rhetorik ihren Höhepunkt zu erreichen |
+| 106 v.Chr. | Cicero wird geboren und hilft der römischen Rhetorik ihren Höhepunkt zu erreichen|
 +------------+----------------------------------------------------------------------------------+
 |  46 n.Chr. | Diktatur Caesars, die Rhetorik verliert ihren politischen Stellenwert            |
 +------------+----------------------------------------------------------------------------------+
@@ -62,15 +62,25 @@ Im gesammten Dokument sind Links als Einstiegspunkte zur Eigenlektüre verteilt.
 
 
 ## Kurzfassung
+Das Wort Rhetorik hatte in der Antike eine andere Bedeutung als heutzutage. Während wir jetzt vor allem die Rede- und Präsentationstechnik darunter verstehen, galt die Rhetorik früher als Disziplin der Politik, des Lehrens und der Wissenschaft. So wurden zum Beispiel römische Rhetorikschüler auch in Juristik, Mathematik und Geographie ausgebildet.
+
+Die Geschichte der Rhetorik beginnt im antiken Griechenland mit Rhetoren und Philosophen. Die Rhetoren nutzten die Rhetorik vor allem zur praktischen Anwendung im Gericht, in der Politik oder zur Meinungskundgabe, während sich die Philosophen auch mit der Problematik der Wahrheit und Tugend auseinandersetzten. 
+Sie waren der Ansicht dass die Rhetorik ohne die Inbetrachtziehung der Philosphie und Ethik nur dazu verwendet würde dem Zuhörer zu schmeicheln und des Redners Ziele zu erreichen.
+
+Als das römische Imperium im 2. Jh.v.Chr immer mehr zu einer Weltmacht aufstieg, wurde die griechische Rhetorik mtihilfe von griechischen Philosophen und Lehrern importiert. Neben der Kunst, wurde auch das Schulsystem übernommen.
+
+In der Rhetorik hatte sich zu diesem Zeitpunkt die *Officia Oratoris* als defakto Standardmodell eingebürgert. Sie bricht den Lebenszyklus einer Rede auf 5 Stufen herab: Auffindung des Stoffes, Gliederung des Stoffes, Stilisieren, Auswendiglernen, Vortragen.
+
+Durch die Einführung der caesarischen Diktatur, verlor die Rhetorik zwar als politisches Instrument ihre Bedeutung, kam jedoch in der Ausbildung der kaiserlichen Vertreter noch zum Einsatz.
 
 \newpage
 
 # Geschichte
 Die Geschichte der Rhetorik beginnt im antiken Griechenland mit Rhetoren und Philosophen, ich baue die Geschichte der Rhetorik hauptsächlich auf diesen Protagonisten auf.
 
-Zusätzlich ist die Geschichte in zwei Teile geteilt, die griechische- und die römische Antike.
+Zusätzlich ist die Geschichte in zwei Teile geteilt, die griechische und die römische Antike.
 
-Zwischen 400 v.Chr. und 200 v.Chr. gibt es eine Überlieferungslücke aus welcher nur sehr wenige Dokumente noch erhalten sind.
+Zwischen 400 v.Chr. und 200 v.Chr. gibt es eine Überlieferungslücke, aus welcher nur noch sehr wenige Dokumente erhalten sind.
 
 # Sophisten
 Die Personen in der frühen Zeit der Rhetorik können grösstenteils in die Sophisten[^sophisten] und die Eristiker[^eristiker] eingeteilt werden. Während sich die Sophisten mit der praktischen Anwendung der Rhetorik, Meinungen und Ansichten, beschäftigten, waren die Eristiker auf die einzige Wahrheit aus, was zu einigen passiv-aggressiven Schriften führte.
@@ -107,20 +117,20 @@ Sokrates begann, die Rhetorik der Sophisten anzugreifen, was sein Schüler Plato
 ## Platon
 *Geboren*:  ca. 425 v.Chr. | *Tod*: 348 v.Chr.
 
-Platon, welcher ein Schüler von Sokrates war, konnte die Sophisten auch nicht leiden. In seinem Dialog [Gorgias](https://de.wikipedia.org/wiki/Gorgias_(Platon) ) kritisiert Platon, dass die von den Sophisten entwickelte Rhetorik nur ein stupides Werkzeug sei, den Zuhörer zu schmeicheln. Alleinstehend, ohne die Philosophie, würde die Rhetorik nur für den eigenen Gewinn misbraucht.
+Platon, welcher ein Schüler von Sokrates war, konnte die Sophisten auch nicht leiden. In seinem Dialog [Gorgias](https://de.wikipedia.org/wiki/Gorgias_(Platon) ) kritisiert Platon, dass die von den Sophisten entwickelte Rhetorik nur ein stupides Werkzeug sei, dem Zuhörer zu schmeicheln. Alleinstehend, ohne die Philosophie, würde die Rhetorik nur für den eigenen Gewinn missbraucht.
 
-Im Platonischen Dialog [Phaidros](https://de.wikipedia.org/wiki/Phaidros), erwärmt sich Platon zwar der Rhetorik als sich, jedoch nicht der zur Zeit durch die Sophisten praktizierte Version. Er stellt folgende Kritikpunkte[^dar32]:
+Im platonischen Dialog [Phaidros](https://de.wikipedia.org/wiki/Phaidros) erwärmt sich Platon zwar der Rhetorik als sich, jedoch nicht der zur Zeit durch die Sophisten praktizierte Version. Er stellt folgende Kritikpunkte[^dar32]:
 
 #) Die Rhetoren seien nicht an der Wahrheit interessiert
 #) Der Redner müsse seine Zuhörer kennen, und wissen was seine Rede in ihnen auslöst.
-#) Die Rede solle nicht aus wirren, einzelnen Punkten bestehen, sondern so, dass alles an der passenden Stelle zum Ganzen betrage.
+#) Die Rede solle nicht aus wirren, einzelnen Punkten bestehen, sondern so, dass alles an der passenden Stelle zum Ganzen beitrage.
 
 [^dar32]: Die Antike Rhetorik (Manfred Fuhrmann), Seite 32
 
 ## Aristoteles
 *Geboren*: 384 v.Chr. | *Tod*: 322 v.Chr.
 
-Aristoteles war der bekannteste Schüler des Platon, er beschäftigte sich neben der Rhetorik auch mit Physik, Biologie, Logik, Kunst, Psychologie und Linguistik. Nachdem er Platons Schule in Athen verliess, unterrichte er Alexander den Grossen, was ihm die Möglichkeit gab, sehr viele Bücher zu schreiben.
+Aristoteles war der bekannteste Schüler des Platon, er beschäftigte sich neben der Rhetorik auch mit Physik, Biologie, Logik, Kunst, Psychologie und Linguistik. Nachdem er Platons Schule in Athen verliess, unterrichte er Alexander den Grossen, was ihm die Möglichkeit gab, diverse Bücher zu schreiben.
 
 ### Rhetorik - von Aristoteles
 Das für mich relevanteste Buch Aristoteles' ist sein Werk *Rhetorik*. In *Rhetorik* beschreibt er die drei Gattungen der Rede, da es ebensoviele Zuhörer gebe. Dies rührt daher, dass jeder Zuhörer über etwas anderes Urteilt:
@@ -151,9 +161,8 @@ Theophrast war einer der beudetsamsten Schüler des Aristoteles, welcher nach Ar
 
 [^redeschmuck]: Stufen der "Gehobenheit", wann welche Stilmittel eingesetzt werden können.
 
-\newpage
 # Römische Rhetoriker
-Als das römische Imperium im 2. Jh.v.Chr immer mehr zu einer Weltmacht anstieg, wurde die griechische Rhetorik importiert. Neben der Kunst, wurde auch das Schulsystem mit hilfe von vielen Sophisten und Philosophen welche als Lehrer fungierten. In der römischen Rhetorik kristallisierten sich zwei grosse Männer heraus: Cicero[^cicero] und Quintillian[^quintillian].
+Als das römische Imperium im 2. Jh.v.Chr immer mehr zu einer Weltmacht aufstieg, wurde die griechische Rhetorik importiert. Neben der Kunst, wurde auch das Schulsystem mithilfe von vielen Sophisten und Philosophen welche als Lehrer fungierten. In der römischen Rhetorik kristallisierten sich zwei grosse Männer heraus: Cicero[^cicero] und Quintillian[^quintillian].
 
 *Lehrbücher*:
 
@@ -185,13 +194,13 @@ Das römische Bildungssystem hinkte einige Jahrhunderte hinter dem griechischen 
 ## Cicero
 *Geboren*: 106 v.Chr. | *Tod*: 43 v.Chr.
 
-Ciceros Jugendarbeit *de inventione* ist aus zwei Gründen signifikant. eines der ältesten lateinischen Rhetorikbücher. Zudem ist es signifikant, da es die zweieinhalb Jahrhunderte dauernde Überlieferungspause beendete. Cicero stellt sich in *de inventione* die Frage ob die Rhetorik der Menschehit mehr nutzen oder schaden zugebracht habe und argumentiert dass ohne die Rhetorik zwar das Zusammenleben und die Kultur nicht entstanden wären, jedoch müsse sie mit Weisheit, politischer Einsicht und Verantwortungsbewusstsein kombiniert werden. Ohne die genannten Tugenden könne die Rhetorik von den Skrupellosen missbraucht werden, die Staatsgewalt an sich zu reissen.
+Ciceros Jugendarbeit *de inventione* ist aus zwei Gründen signifikant: zum einen ist es eines der ältesten lateinischen Rhetorikbücher, zum anderen, da es die zweieinhalb Jahrhunderte andauernde Überlieferungspause beendete. Cicero stellt sich in *de inventione* die Frage, ob die Rhetorik der Menschehit mehr Nutzen oder Schaden zugebracht habe und argumentiert, dass ohne die Rhetorik zwar das Zusammenleben und die Kultur nicht entstanden wären, jedoch müsse sie mit Weisheit, politischer Einsicht und Verantwortungsbewusstsein kombiniert werden. Ohne die genannten Tugenden könne die Rhetorik von den Skrupellosen dazu missbraucht werden, die Staatsgewalt an sich zu reissen.
 
-Cicero war auch der Ansicht, das ein Redner sogenannt *quacumque de re*[^qqdr] sprechen können müsse. Das heisst konkret, das ein Redner nicht nur das Reden beherschen muss, sondern auch in Recht, Kunst, Mathematik, Politik, Geographie, Kriegswesen und weiteren gebildet sein. Um dies zu erreichen bedarf es folgenden Voraussetzungen: *natura*[^natura] und *ingenium*[^ingenium] sowie *studium*[^studium]. Zu diesem *studium* gehören unter anderem vor allem die *ars exercitatio*[^arsexercitatio], wobei an praktischen Beispielen aus der Vergangenheit geübt wird.
+Cicero war auch der Ansicht, das ein Redner sogenannt *quacumque de re*[^qqdr] sprechen können müsse. Das heisst konkret, das ein Redner nicht nur das Reden beherrschen muss, sondern auch in Recht, Kunst, Mathematik, Politik, Geographie, Kriegswesen und weiteren gebildet sein. Um dies zu erreichen, bedarf es folgenden Voraussetzungen: *natura*[^natura] und *ingenium*[^ingenium] sowie *studium*[^studium]. Zu diesem *studium* gehören unter anderem vor allem die *ars exercitatio*[^arsexercitatio], wobei an praktischen Beispielen aus der Vergangenheit geübt wird.
 
-Für seine Zeit eher altmodisch war Ciceros Schriftform des Dialogs. Bereits Aristoteles hatte den Dialog grösstenteils durch einen Vortrag wie wir ihn heute kennen ersetzt.
+Für seine Zeit eher altmodisch war Ciceros Schriftform, der Dialog. Bereits Aristoteles hatte den Dialog grösstenteils durch einen Vortrag wie wir ihn heute kennen ersetzt.
 
-Die römische Rhetorik hatte mit Cicero ihren Höhepunkt erreicht, und es ging mit dem Einklang der Kaiserzeit und somit der Diktatur Caesars mit der Rhetorik als Politwerkzeug abrupt zu Ende. Wie bereits zu Zeiten der griechen überlebte jedoch die Rhetorik als Instrument der Allgemeinbildung. 
+Die römische Rhetorik hatte mit Cicero ihren Höhepunkt erreicht, und es ging mit dem Einklang der Kaiserzeit und somit der Diktatur Caesars mit der Rhetorik als Politwerkzeug abrupt zu Ende. Wie bereits zu Zeiten der Griechen überlebte jedoch die Rhetorik als Instrument der Allgemeinbildung. 
 
 [^qqdr]: zu Deutsch: "jedes Thema"
 [^natura]: Begabung
@@ -202,7 +211,7 @@ Die römische Rhetorik hatte mit Cicero ihren Höhepunkt erreicht, und es ging m
 ## Quintillian
 *Geboren*: 35 n.Chr. | *Tod*: 96 n.Chr.
 
-Die Rhetorik fand auch noch Verwendung in der Ausbildung der kaiserlichen Vetreter, welche über das römische Reich verstreut den Willen des Kaisers verbreiten sollten. Diese Ausbildung war strengst Formal und es wurde hart Trainiert, oft an komplett fiktionalen Beispielen, in welchen Beispielsweise Fischer einen Korb voller Gold aus dem See zogen, oder ein Heiratsstreit mit einer Piratenbande aufgelöst werden sollte - in Kürze, es wurden Gesetze und Reden erstellt für pikante Situation welche es nie gegeben hat, oder geben würde.
+Die Rhetorik fand auch in der Ausbildung der kaiserlichen Vetreter, welche über das römische Reich verstreut den Willen des Kaisers verbreiten sollten, noch Verwendung. Diese Ausbildung war strengst formal und es wurde hart trainiert, oft an komplett fiktionalen Beispielen, in welchen ein Fischer einen Korb voller Gold aus dem See zog, oder ein Heiratsstreit mit einer Piratenbande aufgelöst werden sollte - in Kürze, es wurden Gesetze und Reden erstellt für pikante Situation welche es nie gegeben hatte, oder geben würde.
 
 Unter Quintillians Namen werden uns eine Sammlung von Schriften überliefert, welche 19 vollständig ausgearbeitete Schulreden, sowie ca. die Hälfte von 388 Skizzen von Reden enthalten. 
 
