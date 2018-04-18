@@ -3,25 +3,65 @@ title:          Antike Rhetorik
 author:         Marius Schär
 date:           2018-04-20
 lang:           de-CH
-toc:            true
-toc-depth:      3
-fontsize:       30pt
 links-as notes: true
 classoption:
   - aspectratio=169
 mainfont:       Helvetica Neue
 
 ---
+## Material
 
-# Antike Rhetorik
-## Chronik
-Beep boop
+\LARGE{rhetorik.mariusschaer.ch} ^[Link](https://rhetorik.mariusschaer.ch)^
+
+
+# Rhetorik
+## Rhetorik
+
+**Heute...**
+
+hauptsächlich bekannt als Redetechnik für Präsentation oder Manager.
+\linebreak[3]
 
 . . .
 
-Boop beep
+**Früher...**
 
-# Philosophen
-## Platon
+verwendet als Werkzeug für Politik, Lehren, Juristik, Wissenschaft und Kunst.
 
-Hier **mehr** [lernen](https://rhetorik.mariusschaer.ch).
+# Die Griechen
+
+## Chronik
+Unsere Geschichte beginnt vor 2500 Jahren im Mittelmeerraum...
+<!--Jahrzahlen scheinen ungenau, je nach Quelle grosse Unterschiede-->
+
+## Chronik
+
+**490 v.Chr.**:     Sophisten als Wanderlehrer der Rhetorik
+
+. . .
+
+**470 v.Chr.**:     Geburt von Sokrates
+
+. . .
+
+**466 v.Chr.**:     Ende der Tyrannis auf Sizilien (Thrasybulos -> Aufstand)
+
+. . .
+
+**436 v.Chr.**:     Geburt von Isokrates
+
+. . .
+
+**430 v.Chr.**:     Streit zwischen Philosophie und Rhetorik
+
+. . .
+
+**427 v.Chr.**:     Geburt von Platon, welcher die Arbeit von Sokrates weiterführt
+
+. . .
+
+**384 v.Chr.**:     Geburt von Aristoteles, welcher beginnt die Rhetorik und Philosophie zu vereinen
+
+. . .
+
+**338 v.Chr.**:     Sieg des Philipp von Makedonien beendet die griechische Rhetorik als Politikwerkzeug
