@@ -65,3 +65,17 @@ Unsere Geschichte beginnt vor 2500 Jahren im Mittelmeerraum...
 . . .
 
 **338 v.Chr.**:     Sieg des Philipp von Makedonien beendet die griechische Rhetorik als Politikwerkzeug
+
+## Sophisten und Eristiker
+### Sophisten (Gorgias, Isokrates, Anaximenes)
+- Rhetoren
+- Suchten die praktische Anwendung
+  * Gericht
+  * Volksversammlung
+  * Lehren
+- Zuerst Wanderlehrer, später feste Schulen
+
+### Eristiker (Sokrates, Platon, Aristotels, Theophrast)
+- Philosophen
+- Puristen (intresse am *wahren* Wissen)
+- Gegenüber den Sophisten kritisch eingestellt
