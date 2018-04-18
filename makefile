@@ -1,5 +1,5 @@
 slides:
-	pandoc -t beamer slides.md -o slides.pdf --template templates/beamer.tex
+	pandoc -t beamer slides.md -o slides.pdf --template templates/beamer.tex --pdf-engine=xelatex
 	mupdf slides.pdf
 handout:
 	pandoc handout.md -o handout.pdf --template templates/handout.tex

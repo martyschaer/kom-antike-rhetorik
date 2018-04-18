@@ -1,27 +1,27 @@
 ---
-title: 'Antike Rhetorik'
-author:
-  - Marius Schär
-date: 2018-04-20
+title:          Antike Rhetorik
+author:         Marius Schär
+date:           2018-04-20
+lang:           de-CH
+toc:            true
+toc-depth:      3
+fontsize:       30pt
+links-as notes: true
 classoption:
   - aspectratio=169
+mainfont:       Helvetica Neue
+
 ---
-# Title 1
 
-## \LaTeX\
-$\vec{a} = \lambda * \vec{b}$
+# Antike Rhetorik
+## Chronik
+Beep boop
 
-## Subtitle
-+ List
-+ That's
-+ Not
-+ Ordered
+. . .
 
-# Title 2
-## People
-### Isokrates
-Was a greek dude
+Boop beep
 
-### Sophisten
-Were a bunch of other greek dudes
+# Philosophen
+## Platon
 
+Hier **mehr** [lernen](https://rhetorik.mariusschaer.ch).
