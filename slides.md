@@ -43,12 +43,12 @@ Unsere Geschichte beginnt vor 2500 Jahren im Mittelmeerraum...
 ### Gorgias
 \colsbegin
 \column{.5\textwidth}
+\hfill\includegraphics[width=7cm] {pictures/gorgias.jpg}
+\column{.5\textwidth}
 
 - Praktischer Rhetorikunterricht
 - Wandernde Lehrer
 
-\column{.5\textwidth}
-\hfill\includegraphics[width=7cm] {pictures/gorgias.jpg}
 \colsend
 
 ## 466 v.Chr.
@@ -67,19 +67,21 @@ Unsere Geschichte beginnt vor 2500 Jahren im Mittelmeerraum...
 ### Isokrates
 \colsbegin
 \column{.5\textwidth}
+\hfill\includegraphics[width=7cm] {pictures/isokrates.jpg}
+\column{.5\textwidth}
 
 - Schüler des Gorgias
 - Eröffnete Schule in Athen
 - Politkfokus
 - Auseinandersetzung mit Philosophen
 
-\column{.5\textwidth}
-\hfill\includegraphics[width=7cm] {pictures/isokrates.jpg}
 \colsend
 
 ## Rhetorikschulen
 ### Sokrates
 \colsbegin
+\column{.5\textwidth}
+\hfill\includegraphics[width=7cm] {pictures/sokrates.jpg}
 \column{.5\textwidth}
 
 - Kritisiert Sophisten
@@ -88,8 +90,6 @@ Unsere Geschichte beginnt vor 2500 Jahren im Mittelmeerraum...
 - Bildete selber Schüler aus
   - Mäeutik (Dialog)
 
-\column{.5\textwidth}
-\hfill\includegraphics[width=7cm] {pictures/sokrates.jpg}
 \colsend
 
 ## Gegen die Sophisten
@@ -204,6 +204,8 @@ Unsere Geschichte beginnt vor 2500 Jahren im Mittelmeerraum...
 - Philipp von Makedonien
 - Rhetorik überlebt in der Allgemeinbildung
 
+# Fragen bisher?
+
 # Die Römer
 ## Die Römer
 200 Jahre später...
@@ -240,6 +242,70 @@ Unsere Geschichte beginnt vor 2500 Jahren im Mittelmeerraum...
 #) Elementaruntericht im Lesen und Schreiben
 #) Grammatikunterricht basierend auf Lyriklektüre
 #) Rhetorikunterricht
+
+## Cicero
+### Cicero
+\colsbegin
+\column{.5\textwidth}
+\hfill\includegraphics[width=7cm] {pictures/cicero.jpg}
+\column{.5\textwidth}
+
+- "de inventione"
+  * ältestes lateinsiches Rhetorikbuch
+  * beendet die Überlieferungspause
+  * Was bringt der Menschheit die Rhetorik?
+
+. . .
+
+- Dialog
+  * Altmodisch
+
+\colsend
+
+## Quacumque de re
+### Quacumque de re
+
+- ein Redner müsse jedes Thema beherschen
+
+. . .
+
+- natura und ingenium (Begabung & Character)
+
+. . .
+
+- studium (Ausbildung)
+  * Mathematik, Geographie, Kriegswesen, Politik, Philosophie, etc..
+  * ars exercitatio
+  * üben an praktischen Beispielen
+  * reell, aus der Vergangenheit
+
+## Diktatur (schon wieder)
+### 46 n.Chr.
+
+- Caesar
+
+## Post-Caesarisch
+### Quintillian
+\colsbegin
+\column{.5\textwidth}
+\hfill\includegraphics[width=7cm] {pictures/quintillian.jpg}
+\column{.5\textwidth}
+
+- Rhetorikausbildung für die kaiserlichen Vertreter
+- Fiktionale, extravagante Beispiele
+- Sammlung von Schriften
+  - 19 komplette Schulreden
+
+. . .
+
+- Philosophie- und Politikstudium
+
+
+\colsend
+
+# Fragen?
+
+# Besten Dank!
 
 # Chronik
 ## Chronik - Die Griechen
