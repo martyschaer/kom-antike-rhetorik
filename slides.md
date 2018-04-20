@@ -269,7 +269,7 @@ Unsere Geschichte beginnt vor 2500 Jahren im Mittelmeerraum...
 
 . . .
 
-- natura und ingenium (Begabung & Character)
+- natura und ingenium (Begabung & Charakter)
 
 . . .
 
